@@ -1,0 +1,5 @@
+INSERT INTO user VALUES (101,sysdate(),'AB');
+INSERT INTO user VALUES (201,sysdate(),'Jill');
+INSERT INTO USER VALUES (301,sysdate(),'Jam');
+INSERT INTO POST VALUES (111,'My First Post',101);
+INSERT INTO POST VALUES (112,'My Second Post',101);
